@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <Navigation />
-    <Splash msg="Hi, I am Tyler!"/>
+    <Splash msg="Hi, I am Tyler!" />
     <Footer />
   </div>
 </template>

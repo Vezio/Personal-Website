@@ -10,7 +10,7 @@
       <div class="collapse navbar-collapse" id="navbarText">
         <ul class="navbar-nav mr-auto">
           <li class="nav-item">
-            <a class="nav-link" style="padding-left:4em;" href="#">RESUME</a>
+            <a class="nav-link" style="padding-left:4em;" href="../assets/resume/Tyler_Rimaldi_Resume_2020.pdf" download="Tyler_Rimaldi_Resume_2020.pdf" target="_blank">RESUME</a>
           </li>
         </ul>
       </div>
