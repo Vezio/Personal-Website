@@ -1,12 +1,6 @@
 # Personal-Website
 My personal website
 
-## How to run
-
-`docker build -t trrimaldi/dockerize-personal-website .`
-
-`docker run -it -p 8080:80 --rm --name dockerize-personal-website-1 trrimaldi/dockerize-personal-website`
-
 ## Project setup
 ```
 npm install
