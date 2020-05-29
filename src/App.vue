@@ -1,22 +1,22 @@
 <template>
-  <div id="app">
+  <div id="app" >
     <Navigation />
-    <Splash msg="Hi, I am Tyler!" />
+    <Splash />
     <Footer />
   </div>
 </template>
 
 <script>
 import Navigation from './components/Navigation.vue'
-import Splash from './components/Splash.vue'
+import Splash from './components/Splash/Splash.vue'
 import Footer from './components/Footer.vue'
 
 export default {
   name: 'App',
   components: {
+    Navigation,
     Splash,
-    Footer,
-    Navigation
+    Footer
   }
 }
 </script>
@@ -44,7 +44,11 @@ p,td,li {
   font-family: Roboto-Light;
 }
 
-h1, h2, h3, a {
+h1, h2, h3, h4, h5, a {
   font-family: Roboto-Black;
+}
+
+.card-header {
+  background-color:#B7C3D0 !important;
 }
 </style>

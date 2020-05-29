@@ -1,6 +1,6 @@
 <template>
-  <div class="splash">
-      <h1>{{ msg }}</h1>
+  <div class="splash" data-aos="fade-down" data-aos-duration="500">
+      <h1>Hi, I am Tyler!</h1>
     <div class="container">
       <About />
       <Experience />
@@ -17,9 +17,6 @@ import Timeline from './Timeline.vue'
 
 export default {
   name: 'Splash',
-  props: {
-    msg: String
-  },
   components: {
     About,
     Experience,
@@ -32,4 +29,9 @@ export default {
 .splash{
   margin-top:6em;
 }
+
+h1 {
+  margin-bottom:1em;
+}
+
 </style>
