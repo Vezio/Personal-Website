@@ -33,5 +33,4 @@ export default {
 h1 {
   margin-bottom:1em;
 }
-
 </style>

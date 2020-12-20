@@ -12,9 +12,9 @@
               <div class="col">
                 <ul class="list-group list-group-flush">
                   <li class="list-group-item"><span style="font-weight:bold;">Major</span>: Computer Science</li>
-                  <li class="list-group-item"><span style="font-weight:bold;">Minors</span>: Mathematics, Philosophy, ITIS*</li>
-                  <li class="list-group-item"><span style="font-weight:bold;">GPA</span>: 3.805/4.000 
-                    <span style="font-weight:bold;">Major</span>: 3.898/4.000</li>
+                  <li class="list-group-item"><span style="font-weight:bold;">Minors</span>: Mathematics, Philosophy, IT, IS*</li>
+                  <li class="list-group-item"><span style="font-weight:bold;">Overall GPA</span>: 3.8/4.0,
+                    <span style="font-weight:bold;">Major GPA</span>: 3.9/4.0</li>
                   <li class="list-group-item"><span style="font-weight:bold;">Expected</span>: Spring 2021</li>
                 </ul>
               </div>

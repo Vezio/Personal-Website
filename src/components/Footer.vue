@@ -3,7 +3,7 @@
     <footer class="mastfoot mt-auto">
       <div class="inner">
         <p>Find the <a href="https://github.com/Vezio/Personal-Website">Source Code</a> on GitHub.</p>
-        <p>Copyright &copy; 2020 <a href="https://www.linkedin.com/in/tylerrimaldi/">Tyler Vezio Rimaldi.</a></p>
+        <p>Copyright &copy; 2021 <a href="https://www.linkedin.com/in/tylerrimaldi/">Tyler Vezio Rimaldi.</a></p>
       </div>
     </footer>
   </div>
