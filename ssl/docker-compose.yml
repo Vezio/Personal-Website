@@ -1,0 +1,40 @@
+version: "3"
+services:
+  nginx-proxy:
+    image: jwilder/nginx-proxy
+    container_name: nginx-proxy
+    restart: always
+    ports:
+      - "80:80"
+      - "8080:8080"
+      - "443:443"
+    volumes:
+      - /var/run/docker.sock:/tmp/docker.sock:ro
+      - shared_volume_1:/etc/nginx/certs
+      - shared_volume_2:/etc/nginx/vhost.d
+      - shared_volume_3:/usr/share/nginx/html
+    environment:
+      - DHPARAM_GENERATION=false
+
+  nginx-proxy-letsencrypt:
+    image: jrcs/letsencrypt-nginx-proxy-companion
+    container_name: nginx-proxy-letsencrypt
+    restart: always
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock:ro
+      - shared_volume_1:/etc/nginx/certs
+      - shared_volume_2:/etc/nginx/vhost.d
+      - shared_volume_3:/usr/share/nginx/html
+    environment:
+      - DEFAULT_EMAIL=<email>
+      - NGINX_PROXY_CONTAINER=nginx-proxy
+
+volumes:
+  shared_volume_1:
+  shared_volume_2:
+  shared_volume_3:
+
+networks:
+  default:
+     external:
+       name: nginx-proxy

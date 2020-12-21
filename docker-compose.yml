@@ -2,14 +2,14 @@ version: "3"
 
 services:
   personal-website:
-    image: <something>
+    image: <image>
     expose:
       - 8080
     restart: always
     environment:
-      VIRTUAL_HOST: <something>
-      LETSENCRYPT_HOST: <something>
-    container_name: <something>
+      VIRTUAL_HOST: <host>
+      LETSENCRYPT_HOST: <host>
+    container_name: <container>
 
 networks:
   default:
