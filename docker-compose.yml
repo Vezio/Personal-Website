@@ -1,0 +1,17 @@
+version: "3"
+
+services:
+  personal-website:
+    image: <something>
+    expose:
+      - 8080
+    restart: always
+    environment:
+      VIRTUAL_HOST: <something>
+      LETSENCRYPT_HOST: <something>
+    container_name: <something>
+
+networks:
+  default:
+    external:
+      name: nginx-proxy
