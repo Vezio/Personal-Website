@@ -13,7 +13,7 @@
 <script>
 import About from './About.vue'
 import Experience from './Experience.vue'
-import Timeline from './Timeline.vue'
+import Timeline from './Timeline.vue' 
 
 export default {
   name: 'Splash',
