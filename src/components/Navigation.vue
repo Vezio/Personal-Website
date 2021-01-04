@@ -11,7 +11,7 @@
         <ul class="navbar-nav mr-auto">
           <li class="nav-item">
             <a class="nav-link" 
-            href="https://github.com/Vezio/Personal-Website/raw/Phase-1/src/assets/resume/Tyler_Rimaldi_Resume_2020.pdf">
+            href="https://raw.githubusercontent.com/Vezio/Personal-Website/master/src/assets/resume/Tyler_Rimaldi_Resume_2020.pdf">
             RESUME</a>
           </li>
         </ul>
