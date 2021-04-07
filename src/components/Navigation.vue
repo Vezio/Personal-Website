@@ -1,7 +1,7 @@
 <template>
   <div>
     <nav class="navbar navbar-expand-lg navbar-dark fixed-top bg-dark">
-      <a class="navbar-brand" href="/">TR</a>
+      <a class="navbar-brand" href="/" style="font-weight:bold;">TR</a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" 
               data-target="#navbarText" aria-controls="navbarText"
               aria-expanded="false" aria-label="Toggle navigation">
@@ -11,7 +11,12 @@
         <ul class="navbar-nav mr-auto">
           <li class="nav-item">
             <a class="nav-link" 
-            href="https://raw.githubusercontent.com/Vezio/Personal-Website/main/src/assets/resume/Tyler_Rimaldi_Resume_2020.pdf">
+            href="/compiler" style="font-weight:bold;">
+            COMPILER</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" 
+            href="https://raw.githubusercontent.com/Vezio/Personal-Website/main/src/assets/resume/Tyler_Rimaldi_Resume_2020.pdf" style="font-weight:bold;">
             RESUME</a>
           </li>
         </ul>

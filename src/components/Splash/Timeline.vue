@@ -24,14 +24,14 @@
                       <td><i>Co-Op Software Developer</i> - <br> Z Artifical Intelligence and Analytics</td>
                     </tr>
                     <tr>
-                      <td>Fall 2020 - Current</td>
+                      <td>Fall 2020 - Spring 2021</td>
                       <td><span style="color:#236ddc">Mid-Hudson Works </span> / <span style="color:#C8102E">Marist College</span></td>
-                      <td><i>Software Developer</i> - <br> Consultant for <a href="http://www.midhudsonworkshop.org/">Mid-Hudson Works Non-Profit</a> through Marist College</td>
+                      <td><i>Data Analyst</i> - <br> Consultant for <a href="http://www.midhudsonworkshop.org/" style="font-weight:bold;">Mid-Hudson Works Non-Profit</a> through Marist College</td>
                     </tr>
                     <tr>
                       <td>Fall 2020</td>
                       <td><span style="color:#f6ae1b">GTel </span> / <span style="color:#C8102E">Marist College</span></td>
-                      <td><i>Software Developer</i> - <br> Consultant for <a href="https://gtel.net/">Germantown Telephone Co Inc</a> through Marist College</td>
+                      <td><i>Software Developer</i> - <br> Consultant for <a href="https://gtel.net/" style="font-weight:bold;">Germantown Telephone Co Inc</a> through Marist College</td>
                     </tr>
                     <tr>
                       <td>Spring 2020 & Fall 2020</td>
@@ -52,7 +52,7 @@
                       <td>Spring 2019 - Spring 2020</td>
                       <td><span style="color:#C8102E">Marist College</span></td>
                       <td><i>Software Developer and Research Assistant</i> - <br> Pedagogical Tool Development for 
-                        <a href="https://www.marist.edu/science/doctor-physical-therapy">
+                        <a href="https://www.marist.edu/science/doctor-physical-therapy" style="font-weight:bold;">
                         MCDPT</a></td>
                     </tr>
                     <tr>
@@ -69,8 +69,8 @@
                       <td>Summer 2018 - Spring 2019</td>
                       <td> <span style="color:#006699">IBM</span>&#8212;<span style="color:#C8102E">Marist College</span></td>
                       <td><i>Software Developer and Research Assistant</i> - <br> Joint Study: 
-                        <a href="https://www.marist.edu/documents/20182/564159/HoneyNet+%281%29.pdf/c750f988-2227-49df-8c7c-204379f4f19d">
-                        HoneyNet</a> and <a href="https://www.marist.edu/documents/20182/564159/Mobile_Identity_Final.pdf/c39c8762-da75-4782-9362-17ed1bb74009">
+                        <a href="https://www.marist.edu/documents/20182/564159/HoneyNet+%281%29.pdf/c750f988-2227-49df-8c7c-204379f4f19d" style="font-weight:bold;">
+                        HoneyNet</a> and <a href="https://www.marist.edu/documents/20182/564159/Mobile_Identity_Final.pdf/c39c8762-da75-4782-9362-17ed1bb74009" style="font-weight:bold;">
                         Trusted Identity</a></td>
                     </tr>
                     <tr>

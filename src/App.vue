@@ -1,21 +1,21 @@
 <template>
   <div id="app" >
     <Navigation />
-    <Splash />
+    <v-app>
+      <router-view />
+    </v-app>
     <Footer />
   </div>
 </template>
 
 <script>
 import Navigation from './components/Navigation.vue'
-import Splash from './components/Splash/Splash.vue'
 import Footer from './components/Footer.vue'
 
 export default {
   name: 'App',
   components: {
     Navigation,
-    Splash,
     Footer
   }
 }
@@ -40,11 +40,11 @@ export default {
   src: url(./assets/fonts/Roboto/Roboto-Light.ttf);
 }
 
-p,td,li {
+p,td,li, a {
   font-family: Roboto-Light;
 }
 
-h1, h2, h3, h4, h5, a {
+h1, h2, h3, h4, h5 {
   font-family: Roboto-Black;
 }
 

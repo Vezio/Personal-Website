@@ -2,8 +2,8 @@
   <div class="footer">
     <footer class="mastfoot mt-auto">
       <div class="inner">
-        <p>Find the <a href="https://github.com/Vezio/Personal-Website">Source Code</a> on GitHub.</p>
-        <p>Copyright &copy; 2021 <a href="https://www.linkedin.com/in/tylerrimaldi/">Tyler Vezio Rimaldi.</a></p>
+        <p>Find the <a href="https://github.com/Vezio/Personal-Website" style="font-weight:bold;">Source Code</a> on GitHub.</p>
+        <p>Copyright &copy; 2021 <a href="https://www.linkedin.com/in/tylerrimaldi/" style="font-weight:bold;">Tyler Vezio Rimaldi.</a></p>
       </div>
     </footer>
   </div>

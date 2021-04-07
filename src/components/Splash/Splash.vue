@@ -1,6 +1,6 @@
 <template>
   <div class="splash" data-aos="fade-down" data-aos-duration="500">
-      <h1>Hi, I am Tyler!</h1>
+      <h1>Hi, I'm Tyler!</h1>
     <div class="container">
       <About />
       <Experience />
